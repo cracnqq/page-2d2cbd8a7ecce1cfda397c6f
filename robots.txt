@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.oilyujr.cn/sitemap.xml
